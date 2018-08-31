@@ -1,0 +1,2 @@
+# cityPickerExt
+在原cityPicker上增加了ajax获取数据支持
